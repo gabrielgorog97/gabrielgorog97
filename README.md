@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Gabriel Gorog                                                                                                                                                  
+Gabriel Gorog                                                                                                                                                  
                                                             
 Web developer freelance din Cluj-Napoca. Construiesc site-uri și aplicații web pentru afaceri din România — site-uri de prezentare, magazine online, platforme de rezervări, aplicații custom.
                                                                                                                                                                     
